@@ -24,7 +24,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/imaditya123/text_completion-python.git
 cd text_completion-python
-docker build -t text-completion .
+docker-compose up
 ```
 
 ### Running the Docker Container
