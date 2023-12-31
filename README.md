@@ -1,6 +1,6 @@
 # Text Completion Project
 
-Predictive text completion using Python and Docker.
+Predictive text completion using Transformer and GPT2 model.
 
 ## Overview
 
