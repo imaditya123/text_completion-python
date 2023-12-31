@@ -4,7 +4,10 @@ Predictive text completion using Python and Docker.
 
 ## Overview
 
-Brief description of your text completion project.
+The Text Completion Project with GPT-2 is an innovative application designed for predicting and generating contextually relevant text based on user input. This project utilizes the GPT-2 model, a state-of-the-art language model developed by OpenAI, to deliver advanced text completion capabilities.
+
+The application leverages the GPT-2 model's ability to predict and generate text by providing it with user input. Whether it's completing sentences, paragraphs, or generating creative content, GPT-2 excels at producing high-quality and contextually relevant text.
+
 
 ## Getting Started
 
